@@ -1,5 +1,5 @@
 FROM node:18-alpine
-ARG ARCH=amd64
+# ARG ARCH=amd64
 
 ENV PORT 3000
 
